@@ -996,6 +996,38 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1773955406
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1773955407}
+  m_Layer: 0
+  m_Name: Configurator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1773955407
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773955406}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1847908032}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1795555356
 GameObject:
   m_ObjectHideFlags: 0
@@ -1058,6 +1090,72 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1847908031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1847908032}
+  - component: {fileID: 1847908033}
+  - component: {fileID: 1847908034}
+  m_Layer: 0
+  m_Name: ExteriorColor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1847908032
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847908031}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1773955407}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1847908033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847908031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10ff878c9fd6d624a8dd644d55950824, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MaterialSwitcher
+  category: 0
+  defaultIndex: 0
+  choices:
+  - {fileID: 11400000, guid: 471eaecd2f4a94248ab991be55c36040, type: 2}
+  - {fileID: 11400000, guid: b430b0d938cc653418cc952c1043429d, type: 2}
+  - {fileID: 11400000, guid: 3fdfa4b3c4bb71b408d612badffe172f, type: 2}
+  - {fileID: 11400000, guid: af2b54ca7faa70044a84af1ece376911, type: 2}
+  paintRoot: {fileID: 120101183}
+--- !u!114 &1847908034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847908031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c65566d76f4c7b440a1275cb89feeead, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SwitcherTester
+  target: {fileID: 1847908033}
 --- !u!1 &1919931011
 GameObject:
   m_ObjectHideFlags: 0
@@ -26125,7 +26223,6 @@ GameObject:
   - component: {fileID: 2407444594048167439}
   - component: {fileID: 6277760550874822395}
   - component: {fileID: 3635503338051292902}
-  - component: {fileID: 6277760550874822396}
   m_Layer: 0
   m_Name: Ext_EV9_GT_Line_Hood_carpaint.001
   m_TagString: Untagged
@@ -28013,22 +28110,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5861445505537676431}
   m_Mesh: {fileID: 624624121283003011, guid: 59971a19af52ae140a564b4a857c3cf9, type: 3}
---- !u!114 &6277760550874822396
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5861445505537676431}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b1a2067a629ea5409fa162481643103, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PaintTargets
-  category: 0
-  renderers:
-  - {fileID: 3635503338051292902}
-  materialSlot: 1
 --- !u!33 &6278744788062894953
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -38730,6 +38811,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5075336483158811689}
+  - component: {fileID: 8723092558312467767}
   m_Layer: 0
   m_Name: <*script>CarPaint1
   m_TagString: Untagged
@@ -38737,6 +38819,23 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &8723092558312467767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8723092558312467766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1a2067a629ea5409fa162481643103, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PaintTargets
+  category: 0
+  renderers:
+  - {fileID: 3635503338051292902}
+  - {fileID: 2666801632655600975}
+  materialSlot: 0
 --- !u!1 &8725592737010276765
 GameObject:
   m_ObjectHideFlags: 0
@@ -40922,6 +41021,7 @@ SceneRoots:
   - {fileID: 1382652561}
   - {fileID: 1694466355}
   - {fileID: 1811315974}
+  - {fileID: 1773955407}
   - {fileID: 1983613673}
   - {fileID: 120101183}
   - {fileID: 1795555357}

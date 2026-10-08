@@ -23,6 +23,7 @@ public class PaintTargets : MonoBehaviour
     [Tooltip("교체할 Material 슬롯 번호 (Mesh Renderer의 Materials 목록 순서, 0부터)")]
     public int materialSlot = 0;
 
+
     //--------------- (2) ---------------
     //  <<< 함수 >>>
 

@@ -50,7 +50,7 @@ public abstract class OptionSwitcher : MonoBehaviour
 
         currentIndex = defaultIndex;
         isInitialized = true;
-        ApplyCurrent();
+        ApplyCurrentOption();
     }
 
     //  index번째 옵션을 선택한다. 성공하면 true.
@@ -69,7 +69,7 @@ public abstract class OptionSwitcher : MonoBehaviour
         }
 
         currentIndex = index;
-        ApplyCurrent();
+        ApplyCurrentOption();
         return true;
     }
 
@@ -90,7 +90,7 @@ public abstract class OptionSwitcher : MonoBehaviour
     public abstract OptionData GetChoice(int index);
 
     //  현재 currentIndex를 실제로 적용한다 (자식 클래스가 구현)
-    protected abstract void ApplyCurrent();
+    protected abstract void ApplyCurrentOption();
 
     //  자식 클래스도 쓰는 범위 검사
     protected bool IsValidIndex(int index)
