@@ -26125,6 +26125,7 @@ GameObject:
   - component: {fileID: 2407444594048167439}
   - component: {fileID: 6277760550874822395}
   - component: {fileID: 3635503338051292902}
+  - component: {fileID: 6277760550874822396}
   m_Layer: 0
   m_Name: Ext_EV9_GT_Line_Hood_carpaint.001
   m_TagString: Untagged
@@ -28012,6 +28013,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5861445505537676431}
   m_Mesh: {fileID: 624624121283003011, guid: 59971a19af52ae140a564b4a857c3cf9, type: 3}
+--- !u!114 &6277760550874822396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5861445505537676431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1a2067a629ea5409fa162481643103, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PaintTargets
+  category: 0
+  renderers:
+  - {fileID: 3635503338051292902}
+  materialSlot: 1
 --- !u!33 &6278744788062894953
 MeshFilter:
   m_ObjectHideFlags: 0
