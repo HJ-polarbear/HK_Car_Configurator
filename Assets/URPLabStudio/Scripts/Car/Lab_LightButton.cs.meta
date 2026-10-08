@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 58cb669d681935a4dae9767884b967e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scripts/Car/Lab_LightButton.cs
+  uploadId: 988052

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 307f01292e6728e4fb87feea1611a895
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scenes/Lab_Studio_C/LightingData.asset
+  uploadId: 988052

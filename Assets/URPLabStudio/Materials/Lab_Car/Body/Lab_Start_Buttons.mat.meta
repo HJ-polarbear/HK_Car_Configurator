@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9e21427b214a3640862cf04a7fc795f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Car/Body/Lab_Start_Buttons.mat
+  uploadId: 988052

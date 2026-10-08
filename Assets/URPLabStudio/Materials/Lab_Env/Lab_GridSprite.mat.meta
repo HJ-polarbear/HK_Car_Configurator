@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 630e1b08caecc0f44a609a99f0fedac0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Env/Lab_GridSprite.mat
+  uploadId: 988052

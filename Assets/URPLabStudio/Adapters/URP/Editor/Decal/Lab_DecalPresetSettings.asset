@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bcde83ca48ff544ba14adaf5291e8dd, type: 3}
+  m_Name: Lab_DecalPresetSettings
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Lab_DecalPresetSettings
+  presetShaders:
+  - {fileID: -6465566751694194690, guid: 6e0032ced3fa1e643a7230150a404ce0, type: 3}
+  - {fileID: -6465566751694194690, guid: fa72378166c1c7841ac409f29df86884, type: 3}
+  - {fileID: -6465566751694194690, guid: c38e0b6b5dc6b47e2aa2f4d0eebf838c, type: 3}
+  - {fileID: -6465566751694194690, guid: 6aba0cf024090d54bbffb301ce61a4fb, type: 3}
+  - {fileID: -6465566751694194690, guid: 099e497b953cde54aab743b6d095ab89, type: 3}
+  - {fileID: 0}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd4718b4a1b84db40881ae408f82c829
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Materials/Loft_Props/URP_Loft_Carpet_B_Red.mat
+  uploadId: 988052

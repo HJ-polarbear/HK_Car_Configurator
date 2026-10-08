@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6220dc69ddb8d5048af727533692f53b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Adapters/URP/Editor/Decal/DecalColor/Lab_DoorDecalColorSwitcher.cs
+  uploadId: 988052

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18f9413ed4fd68f488931ebb9c975525
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Car/CarPaint/Lab_Pearl_White.mat
+  uploadId: 988052

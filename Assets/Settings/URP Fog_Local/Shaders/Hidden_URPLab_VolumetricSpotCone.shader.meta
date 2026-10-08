@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af97ce9243970294ea412e59ce68fc8d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/Settings/URP Fog_Local/Shaders/Hidden_URPLab_VolumetricSpotCone.shader
+  uploadId: 988052

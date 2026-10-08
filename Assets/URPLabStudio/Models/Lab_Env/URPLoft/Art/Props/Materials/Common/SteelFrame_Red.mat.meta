@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5b4701581d7d774caa26a8bff854b4f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Materials/Common/SteelFrame_Red.mat
+  uploadId: 988052

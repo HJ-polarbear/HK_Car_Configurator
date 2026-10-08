@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bff7776238c77ee45b9407cfd154ef9f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Prefabs/Lab_Env/Lab_Studio_B.prefab
+  uploadId: 988052

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca69e35c01e484743a47bf577b75302a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Decals/Orbit_Wheels_Gray.mat
+  uploadId: 988052

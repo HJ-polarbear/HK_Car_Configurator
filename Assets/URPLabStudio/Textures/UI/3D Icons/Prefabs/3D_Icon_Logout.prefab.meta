@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7cf7a2746583497cb599cb01b73f988
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Textures/UI/3D Icons/Prefabs/3D_Icon_Logout.prefab
+  uploadId: 988052

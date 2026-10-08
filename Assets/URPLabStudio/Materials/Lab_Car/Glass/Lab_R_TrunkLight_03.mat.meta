@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e5fb1c6e294d3344b2f6578e2bca224
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Car/Glass/Lab_R_TrunkLight_03.mat
+  uploadId: 988052

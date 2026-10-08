@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7642b781f0d08f7408d27b3b3b81f60d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Materials/Common/Screw.mat
+  uploadId: 988052

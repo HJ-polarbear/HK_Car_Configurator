@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5547ed09d1fea874ebeca618857a5d48
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scripts/Canvas/Lab_TransformRotate.cs
+  uploadId: 988052

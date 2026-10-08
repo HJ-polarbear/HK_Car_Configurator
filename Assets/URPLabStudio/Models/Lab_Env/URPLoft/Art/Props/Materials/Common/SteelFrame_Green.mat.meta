@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d4617029b411fe4592204beeef20d27
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Materials/Common/SteelFrame_Green.mat
+  uploadId: 988052

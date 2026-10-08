@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f530da1d040afdb449a1bcc7e3e4455d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Car/INT/Lab_INT_Engine_Red.mat
+  uploadId: 988052

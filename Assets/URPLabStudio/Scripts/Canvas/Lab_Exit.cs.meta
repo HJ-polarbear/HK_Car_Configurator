@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ea3d750cdc2f36e4c8668514180b975f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scripts/Canvas/Lab_Exit.cs
+  uploadId: 988052

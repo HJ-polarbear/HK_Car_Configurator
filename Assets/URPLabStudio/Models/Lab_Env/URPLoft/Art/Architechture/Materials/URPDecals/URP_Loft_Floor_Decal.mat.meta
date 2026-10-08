@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 499a34465967fa943a8ccb51edd0fad7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Architechture/Materials/URPDecals/URP_Loft_Floor_Decal.mat
+  uploadId: 988052

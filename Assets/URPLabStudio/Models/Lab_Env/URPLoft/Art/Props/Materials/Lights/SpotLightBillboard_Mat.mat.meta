@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 010c0e1b9aa61ec4799fcfc2ad2f9aed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Materials/Lights/SpotLightBillboard_Mat.mat
+  uploadId: 988052

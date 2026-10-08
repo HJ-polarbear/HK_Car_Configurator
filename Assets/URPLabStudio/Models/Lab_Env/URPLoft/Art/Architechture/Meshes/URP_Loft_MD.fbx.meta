@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: e2be7a182e79b4347a58c1d39e0d04b9
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URPLoft_MD
+    second: {fileID: 2100000, guid: 10efd0655ec3ffa4da3f81db612e47ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_AirDucts_01
+    second: {fileID: 2100000, guid: 37ec64c5662160b4298f814c6acfa62c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_AirDucts_02
+    second: {fileID: 2100000, guid: d9da0a345f4f28346909a86d207d17e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_AirDucts_03
+    second: {fileID: 2100000, guid: 20ca1526139965749aea76e3b3261e41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_AirDucts_04
+    second: {fileID: 2100000, guid: 7d8f66c263e9ad4478c1a1ca77e6f5b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_BathFloor
+    second: {fileID: 2100000, guid: 1db98e97a3a6e344189ddb07b12e92ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_BathWall_01
+    second: {fileID: 2100000, guid: d7961eeafaa80af498b95ad3f240540a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_BathWall_02
+    second: {fileID: 2100000, guid: a26bcbc7569f06443a64bec34eeb8940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Cabinet
+    second: {fileID: 2100000, guid: 840703cc264df5646a6474e764e74b08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Cabinet_Blue
+    second: {fileID: 2100000, guid: ef923ff2bb1fd0e42a9d4b4768cb8e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Cabinet_Box
+    second: {fileID: 2100000, guid: 03472f88ae021fe429910ddfbb4146cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ceil_Metal
+    second: {fileID: 2100000, guid: 62a1014022bfaa8489b80950c370e85b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ceil_Metal_Hole
+    second: {fileID: 2100000, guid: 3c552c7cb49b6154ebdcd50c00eb2d70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ceil_Pipes
+    second: {fileID: 2100000, guid: 64c7b8ef20445a2429ef861e7dad6b37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ceil_Pipes_Ring
+    second: {fileID: 2100000, guid: c0454824374fd524f9388aabab3b1492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ceiling
+    second: {fileID: 2100000, guid: a47e07c359bb57a4193aa5d5c3589aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ceiling_Tile
+    second: {fileID: 2100000, guid: c8f399cfa9247064cb21edc2eeea3c1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_ConcteteWall
+    second: {fileID: 2100000, guid: 6fa33d6930d129243b84f724c5ab74d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Doors_Frames
+    second: {fileID: 2100000, guid: 0cec6a1e9cd15bc4b898e343a1043f51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Entrance
+    second: {fileID: 2100000, guid: 93b773fbd4c75744e8f546ed1520955a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ext_Wall
+    second: {fileID: 2100000, guid: f6726713b5dc9c941a5829ee27dd8299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Floor
+    second: {fileID: 2100000, guid: cb29bde281e4ee642b3d82f22a956799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_FloorFlap_Hole
+    second: {fileID: 2100000, guid: 70168321170a22447b10e403ed8fb882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_FloorFlap_Metal
+    second: {fileID: 2100000, guid: d71d67e061f701e49a80e2bad74681eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_FloorTile_01
+    second: {fileID: 2100000, guid: 6dd5734e664050a489453ddbd0faa731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_FloorTile_02
+    second: {fileID: 2100000, guid: 21f01ce915437f24596dc82e464e6809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Frame_Metal
+    second: {fileID: 2100000, guid: a8ad2dcea475f64439a52a2bb5e058f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_H_Beams_Black
+    second: {fileID: 2100000, guid: 447a4d1567db6f247a63fc1fa8fc0064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Int_Wall_01
+    second: {fileID: 2100000, guid: dd9a1ac2808b8a648834eddbfaff467f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Int_Wall_02
+    second: {fileID: 2100000, guid: 8c700a8cb57cf114b8065d01011167ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Int_Wall_03
+    second: {fileID: 2100000, guid: 94daac42ba048c94eb97475e1be37915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Int_Wall_04
+    second: {fileID: 2100000, guid: b0aa3c4ec48676d4c8d6b88cb46eca66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Partitions_Glass_01
+    second: {fileID: 2100000, guid: ac42fda2ab59a3f40bfd3f927301185c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Partitions_Glass_02
+    second: {fileID: 2100000, guid: 5db7dcb942d1c934fbbceeb14a430d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Partitions_Metal
+    second: {fileID: 2100000, guid: e1481e3326ef960498f53618939bdc1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Partitions_Metal_01
+    second: {fileID: 2100000, guid: e1481e3326ef960498f53618939bdc1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Partitions_Metal_02
+    second: {fileID: 2100000, guid: 6b2ad0bf812814948b1fd4c161c66a82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Pipe_01
+    second: {fileID: 2100000, guid: c9ce8ca03ea411547972cf44f2714517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Pipe_02
+    second: {fileID: 2100000, guid: 10ccab3c3866b5c4d8cbc6b57d80d200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Screen_01
+    second: {fileID: 2100000, guid: 74d0ca29b749b5b42ac4387ec8674485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Screen_02
+    second: {fileID: 2100000, guid: 3134582a3af5c3440a91dc083daab210, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Screen_Glass
+    second: {fileID: 2100000, guid: f0226f10d82220b4db8eeae4ebea7ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Screen_Tab
+    second: {fileID: 2100000, guid: 9b66f78bc5654194db25d2a1416bacf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Small_Pipes_01
+    second: {fileID: 2100000, guid: f2b67250f7e9dc141995ff6bc8360a85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Small_Pipes_02
+    second: {fileID: 2100000, guid: a3ffaf5f33a113144831d8bd354b6043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Small_Pipes_03
+    second: {fileID: 2100000, guid: d87a55d4163460547bc21996ded5af10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Small_Pipes_Box
+    second: {fileID: 2100000, guid: 85bc30dcdaec30c45b8cf0e9e7f65316, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Stair
+    second: {fileID: 2100000, guid: 1bb07e8949151f5488b6d1c30b441f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Stair_Metal
+    second: {fileID: 2100000, guid: 2c91bc380dd781f4fb05a309a948b2aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Tunnel
+    second: {fileID: 2100000, guid: 3cd386514c3d48246aafd3895c2bc458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_TunnelUnder_01
+    second: {fileID: 2100000, guid: df34e4aeafb25aa4fb7dfd63ef3b877a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_TunnelUnder_02
+    second: {fileID: 2100000, guid: d6b30ef0e54943449bdad6f1196a4eb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_TunnelUnder_03
+    second: {fileID: 2100000, guid: 4f5a8cf2a560d4a46a9cc25dbb841e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Tunnel_Doors_01
+    second: {fileID: 2100000, guid: e768d3c19952a314b97932df4bb95a35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Tunnel_Doors_02
+    second: {fileID: 2100000, guid: 9edf9d91185e9cb4a9dbc51f35798ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Tunnel_Doors_03
+    second: {fileID: 2100000, guid: ed3d3e0024d844d41a6f3016650c50a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Tunnel_Doors_04
+    second: {fileID: 2100000, guid: 9a846053012b3184b92b10e69ea5f85d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Tunnel_Pen_01
+    second: {fileID: 2100000, guid: 9146f82ba363447438b02cbaa134846f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Tunnel_Pen_02
+    second: {fileID: 2100000, guid: ed9982ad12c8d7a49b1b6596fa6eda85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Tunnel_Pipes
+    second: {fileID: 2100000, guid: 11ee5d51c1657154488e98a03c826e28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Tunnel_Pipes_Ring
+    second: {fileID: 2100000, guid: 52d2536589d42d94bb6e1cfca9ced216, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Tunnel_Wall_Box
+    second: {fileID: 2100000, guid: dcea9433e47d3184291c9e2c0d5ca84a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_01
+    second: {fileID: 2100000, guid: dd9a1ac2808b8a648834eddbfaff467f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_02
+    second: {fileID: 2100000, guid: 8c700a8cb57cf114b8065d01011167ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_03
+    second: {fileID: 2100000, guid: 94daac42ba048c94eb97475e1be37915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_04
+    second: {fileID: 2100000, guid: b0aa3c4ec48676d4c8d6b88cb46eca66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_05
+    second: {fileID: 2100000, guid: 7f2027e48442fe44d85e5858e2c5a62e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_Pipe_01
+    second: {fileID: 2100000, guid: 1553078e727757f4080bbab5f661c36a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_Pipe_02
+    second: {fileID: 2100000, guid: 83ab31a4dc8457f4bb72dfd1a617532c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_Pipe_03
+    second: {fileID: 2100000, guid: 19e921d474b83d24ca8d931c7990a135, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_Pipe_04
+    second: {fileID: 2100000, guid: 8264658d2c2d4b4499be2dbbc815fea3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_Pipe_05
+    second: {fileID: 2100000, guid: aa5facd081f7bf14ca65c8cf7f4bd18f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_Pipe_06
+    second: {fileID: 2100000, guid: ca267178d489fb640acaddbb5543b832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_WinDesk
+    second: {fileID: 2100000, guid: 6d91d7b1174a8f64a99f7e3322168501, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Architechture/Meshes/URP_Loft_MD.fbx
+  uploadId: 988052

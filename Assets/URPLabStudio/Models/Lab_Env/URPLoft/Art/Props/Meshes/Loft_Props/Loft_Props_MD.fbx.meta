@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 64a1232517c76f94baab8b0268a9f3c5
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Bath_Shower
+    second: {fileID: 2100000, guid: 417308c0324d0c742aad67f5ec85ab46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Bookcase
+    second: {fileID: 2100000, guid: a13000b240d9a7440a0f3f540caac57d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Carpet_A
+    second: {fileID: 2100000, guid: ede2ca0f111c0174b90d07fa5e727e5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Carpet_B
+    second: {fileID: 2100000, guid: 982f63c2b39df54489e352214bd63eaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ceiling_Light_Em
+    second: {fileID: 2100000, guid: 4036fa9ec0c1baf46ad220bb55c75068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ceiling_Light_Glass
+    second: {fileID: 2100000, guid: 7863fc757a691a54fa0e9c0629707361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ceiling_Light_Line
+    second: {fileID: 2100000, guid: c1ad5667938d1c94abc93c87ce65a07f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ceiling_Light_Metal_01
+    second: {fileID: 2100000, guid: d03dc14e589e40746b483e6590c03cd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ceiling_Light_Metal_02
+    second: {fileID: 2100000, guid: a903a84cfe3c23745a530647611a5dd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ref_Line_01
+    second: {fileID: 2100000, guid: 1522d60f168c57847be4498c42bbdd40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ref_Line_02
+    second: {fileID: 2100000, guid: ae490359a6aa3814097c56dd442f4609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ref_Metal_01
+    second: {fileID: 2100000, guid: dcf668e2fb707c8498cd42cd2ce8fe2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Ref_Metal_02
+    second: {fileID: 2100000, guid: cbff379f99691014baec7768d1212d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Refrigerator_Body
+    second: {fileID: 2100000, guid: 52349defddb4209468d0ba1bcc29827e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Scaffolding_Hole
+    second: {fileID: 2100000, guid: 3a08931558388ec4c9e66c3cf780275f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Scaffolding_Metal
+    second: {fileID: 2100000, guid: a09f69bf161689747aa20116a4b0adec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Screen_Glass
+    second: {fileID: 2100000, guid: f0226f10d82220b4db8eeae4ebea7ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Screen_Pic_01
+    second: {fileID: 2100000, guid: 955775e3f3220374aabb64b50063a0eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Screen_Pic_02
+    second: {fileID: 2100000, guid: b080c67385ad8d04db4ebacbc42c30c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Screen_Pic_03
+    second: {fileID: 2100000, guid: cc5b9d0055e7a654ba87b6e2db55a7f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Screen_Pic_04
+    second: {fileID: 2100000, guid: bb32a576d486b1f48a9830616bbf81bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Screen_Tab
+    second: {fileID: 2100000, guid: 9b66f78bc5654194db25d2a1416bacf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Server_Box
+    second: {fileID: 2100000, guid: 9d95e10965b9d7040aa78ca4da001419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Sofa_Fabric
+    second: {fileID: 2100000, guid: 466a9b13435262e4bb7089964064bc11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Sofa_Metal
+    second: {fileID: 2100000, guid: 71fab0b495d53ea41adf447f6c59e84c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_TableBox
+    second: {fileID: 2100000, guid: f95d530e3b6130c48b53b7d6ad43fa48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_TableBox_A
+    second: {fileID: 2100000, guid: f95d530e3b6130c48b53b7d6ad43fa48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_TableBox_B
+    second: {fileID: 2100000, guid: e7a8326852a1808439cba1b40951fe1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Table_A_Black
+    second: {fileID: 2100000, guid: 7c778086a9bb30a439a1455182425e76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Table_A_Glass
+    second: {fileID: 2100000, guid: 6373d072a8ab0d74d9f8df8e29ff90e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Table_A_Gray
+    second: {fileID: 2100000, guid: b3ba525de18ed294dbf200ea56755399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Table_B
+    second: {fileID: 2100000, guid: e8751b0311c837f408dc4c73eb60be65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_Light_01
+    second: {fileID: 2100000, guid: 9ac6ee683de2dfa48b71f579b98b14e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_Light_02
+    second: {fileID: 2100000, guid: 8d187f75430908e4baa8c948428b2294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wall_Light_03_Em
+    second: {fileID: 2100000, guid: 994af9353953b9946a74560213fc9fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_WinDesk_Color
+    second: {fileID: 2100000, guid: 6d91d7b1174a8f64a99f7e3322168501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_WinDesk_Glass
+    second: {fileID: 2100000, guid: 545e69377012120429d546dc30b2fc53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_WinDesk_Metal
+    second: {fileID: 2100000, guid: 2df1effd00122e04d8f6ef2d9c469b95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: URP_Loft_Wood_Desk
+    second: {fileID: 2100000, guid: a13000b240d9a7440a0f3f540caac57d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Meshes/Loft_Props/Loft_Props_MD.fbx
+  uploadId: 988052

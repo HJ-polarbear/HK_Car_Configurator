@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b13fb7181bdc07844986d2cc4b41d151
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Shaders/URPFactory/UWC_AMS_Normal.shadergraph
+  uploadId: 988052

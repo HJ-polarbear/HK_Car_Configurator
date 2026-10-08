@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d10196c7a7115f4a894eebc7a9c0a3d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Architechture/Materials/URPDecals/URP_Loft_Refr_Door_Decal.mat
+  uploadId: 988052

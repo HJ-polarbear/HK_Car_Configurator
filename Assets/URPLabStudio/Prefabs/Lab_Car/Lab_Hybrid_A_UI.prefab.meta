@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed0ccd44f84a07d47b60c475ebfb282a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Prefabs/Lab_Car/Lab_Hybrid_A_UI.prefab
+  uploadId: 988052

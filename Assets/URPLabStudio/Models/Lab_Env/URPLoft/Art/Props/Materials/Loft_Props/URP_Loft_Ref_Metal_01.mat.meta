@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dcf668e2fb707c8498cd42cd2ce8fe2d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Materials/Loft_Props/URP_Loft_Ref_Metal_01.mat
+  uploadId: 988052

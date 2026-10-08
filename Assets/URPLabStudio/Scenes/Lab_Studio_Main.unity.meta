@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0824a89ad3e8dc2478f0f814fee935f8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scenes/Lab_Studio_Main.unity
+  uploadId: 988052

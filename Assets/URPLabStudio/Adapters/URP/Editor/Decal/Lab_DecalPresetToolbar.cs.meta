@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c619ec965f6b05d41896c96bc5f925d0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Adapters/URP/Editor/Decal/Lab_DecalPresetToolbar.cs
+  uploadId: 988052

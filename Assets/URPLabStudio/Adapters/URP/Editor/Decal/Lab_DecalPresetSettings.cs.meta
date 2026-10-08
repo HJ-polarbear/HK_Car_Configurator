@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0bcde83ca48ff544ba14adaf5291e8dd
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Adapters/URP/Editor/Decal/Lab_DecalPresetSettings.cs
+  uploadId: 988052

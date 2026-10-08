@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71fab0b495d53ea41adf447f6c59e84c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Materials/Loft_Props/URP_Loft_Sofa_Metal.mat
+  uploadId: 988052

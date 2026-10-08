@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e868d83a6db95f44d937dde0cb450d3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scripts/Car/Lab_TurnTable.cs
+  uploadId: 988052

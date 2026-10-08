@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: db11c73f8ea258e4e826c2dac2d1d845
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/Settings/URP Fog_Local/Shaders/Hidden_URPLab_FakeAreaLightPreview.shader
+  uploadId: 988052

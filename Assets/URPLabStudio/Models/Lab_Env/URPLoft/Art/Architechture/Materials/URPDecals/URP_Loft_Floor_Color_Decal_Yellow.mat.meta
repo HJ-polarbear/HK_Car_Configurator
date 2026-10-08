@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f63c9cbbc740bf4b8b00d06a6d384d3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Architechture/Materials/URPDecals/URP_Loft_Floor_Color_Decal_Yellow.mat
+  uploadId: 988052

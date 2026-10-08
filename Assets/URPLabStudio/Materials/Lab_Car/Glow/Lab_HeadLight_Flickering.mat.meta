@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03c4f0dd5a3e2b8479bdff0449492c91
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Car/Glow/Lab_HeadLight_Flickering.mat
+  uploadId: 988052

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d69e96e2b1a9d36478138c36f85c607b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scripts/LabVehicle/Lab_VehicleInput.cs
+  uploadId: 988052

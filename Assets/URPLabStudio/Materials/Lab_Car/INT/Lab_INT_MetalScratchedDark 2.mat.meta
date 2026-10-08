@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b93c5763434840d459d2de3439973ebc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Car/INT/Lab_INT_MetalScratchedDark 2.mat
+  uploadId: 988052

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c2c90b0ab7e02145ae155b3d1a12721
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Materials/Common/Shutter.mat
+  uploadId: 988052

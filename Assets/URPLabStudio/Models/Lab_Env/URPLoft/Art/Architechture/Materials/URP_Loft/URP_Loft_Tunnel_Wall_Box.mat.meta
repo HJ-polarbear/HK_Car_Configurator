@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dcea9433e47d3184291c9e2c0d5ca84a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Architechture/Materials/URP_Loft/URP_Loft_Tunnel_Wall_Box.mat
+  uploadId: 988052

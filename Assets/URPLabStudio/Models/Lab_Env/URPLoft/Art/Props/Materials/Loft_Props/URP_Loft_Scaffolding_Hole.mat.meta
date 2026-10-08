@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a08931558388ec4c9e66c3cf780275f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Materials/Loft_Props/URP_Loft_Scaffolding_Hole.mat
+  uploadId: 988052

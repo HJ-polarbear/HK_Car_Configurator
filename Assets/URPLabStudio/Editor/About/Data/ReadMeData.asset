@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26dbece6213659443b09496582c9fe0f, type: 3}
+  m_Name: ReadMeData
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::ReadMeData
+  requiredUnityVersion: 6000.6.0F1
+  headerImage: {fileID: 2800000, guid: 006a238136b50164a89f2a1585bc2edf, type: 3}
+  brandLogo: {fileID: 2800000, guid: af8e43e2ecbdfdc4ab5c196865b7a756, type: 3}
+  windowTitle: About
+  brandTitle: URPLabStudio
+  projectSubtitle: URP Visualization & Rendering Toolkit
+  versionLabel: URPLabStudio / Version 1.0 / Unity 6.6 URP
+  overviewText: 'URPLabStudio is a production-focused visualization and rendering toolkit built for Unity 6 URP.
+
+    
+
+    It combines configurable studio environments, runtime vehicle presentation, custom rendering systems, shader-based look development, and Scene View authoring tools into a unified workflow.
+
+    
+
+    The project includes realtime planar reflections, global and local volumetric fog, emissive decal workflows, configurable runtime UI, camera and vehicle presentation systems, and reusable editor utilities.
+
+    
+
+    URPLabStudio is designed for automotive visualization, product presentation, technical art experimentation, and practical URP production workflows.'
+  mainTitle: URPLabStudio
+  description: 'URPLabStudio is a Unity 6 URP visualization environment designed for automotive and product presentation, rendering development, runtime interaction, and editor workflow experimentation.
+
+    
+
+    It provides reusable scenes, configurable presentation systems, custom rendering features, and authoring tools for practical realtime visualization workflows.'
+  environmentInfo: 'Developed and tested with Unity 6000.6.0f1 and the Universal Render Pipeline (URP).
+
+
+    Designed for Unity 6 URP realtime visualization and rendering workflows.'
+  features:
+  - Configurable studio environments designed for automotive and product visualization, lighting evaluation, and realtime presentation.
+  - Runtime controls for camera presets, vehicle interaction, body materials, wheel design, lighting, and presentation workflows.
+  - Custom URP rendering features including emissive decals, realtime planar reflections, global volumetric fog, and localized fog volumes.
+  - Custom URP shaders and Shader Graph workflows for vehicle materials, surface response, decals, reflections, and visual presentation.
+  - Scene View authoring utilities including Decal Presets, Transform Overlay, and PrimTools for faster environment and visualization workflows.
+  - Reusable motion system for Transform, Float, and rendering-property animation with configurable looping, easing, and playback control.
+  urpLabDescription: 'URPLabStudio brings together realtime visualization, custom URP rendering, runtime interaction, and editor tooling in a reusable production-oriented project structure.
+
+    
+
+    The toolkit is designed to support practical technical art workflows while keeping scenes, rendering features, and authoring tools organized and accessible.'
+  sceneEntries: []
+  primarySceneIndex: 0
+  mainSceneButtonLabel: Open Main Scene
+  assetLibraryScene: {fileID: 102900000, guid: 871cd8e829ddd0f42b1d77f968b1b88e, type: 3}
+  assetLibraryButtonLabel: Open Asset Library
+  mainScene: {fileID: 102900000, guid: 0824a89ad3e8dc2478f0f814fee935f8, type: 3}
+  websiteButtonLabel: URPLabStudio YouTube
+  websiteUrl: https://www.youtube.com/@yoon9718
+  showOnStartByDefault: 1
+  markdownFile: {fileID: 0}

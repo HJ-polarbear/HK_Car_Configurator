@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f65bb5ab281d3e14d89bbe30dfda65f3
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scripts/InteractionUI/Lab_CameraDirector.cs
+  uploadId: 988052

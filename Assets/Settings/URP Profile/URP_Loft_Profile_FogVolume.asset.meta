@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e5dd5863bf506d49a141744145519fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/Settings/URP Profile/URP_Loft_Profile_FogVolume.asset
+  uploadId: 988052

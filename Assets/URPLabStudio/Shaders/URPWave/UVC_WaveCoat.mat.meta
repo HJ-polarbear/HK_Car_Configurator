@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ae7b8c7d0fb5d746a688a8d998c3c99
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Shaders/URPWave/UVC_WaveCoat.mat
+  uploadId: 988052

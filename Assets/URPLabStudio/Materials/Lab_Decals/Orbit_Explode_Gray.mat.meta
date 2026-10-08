@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46210962a78cef4448f6b93d58ea6c1e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Decals/Orbit_Explode_Gray.mat
+  uploadId: 988052

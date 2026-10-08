@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a69dfba3706c35f48a70ca649f359552
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scripts/Canvas/Lab_WheelSelection.cs
+  uploadId: 988052

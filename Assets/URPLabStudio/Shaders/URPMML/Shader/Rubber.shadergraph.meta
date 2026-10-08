@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 10a8d4623b1266e498eec496bd32274a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Shaders/URPMML/Shader/Rubber.shadergraph
+  uploadId: 988052

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1ad5667938d1c94abc93c87ce65a07f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Materials/Loft_Props/URP_Loft_Ceiling_Light_Line.mat
+  uploadId: 988052

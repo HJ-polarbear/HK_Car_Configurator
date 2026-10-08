@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9074cc2223365fc418b62cb87129f36d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Props/Materials/Lights/SpotlightBody_Mat.mat
+  uploadId: 988052

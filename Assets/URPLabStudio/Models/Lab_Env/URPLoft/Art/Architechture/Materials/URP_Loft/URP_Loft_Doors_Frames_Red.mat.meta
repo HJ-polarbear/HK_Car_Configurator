@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee9ce288d9911f749a8f78903141ee2a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Architechture/Materials/URP_Loft/URP_Loft_Doors_Frames_Red.mat
+  uploadId: 988052

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 467cb44b51ad6ec4f8487f446681f49a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scripts/LabVehicle/Lab_VehicleDriver.cs
+  uploadId: 988052

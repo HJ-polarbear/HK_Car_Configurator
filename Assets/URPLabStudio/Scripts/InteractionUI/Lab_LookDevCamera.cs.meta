@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fcec05db151be704c849615b405e4ae2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scripts/InteractionUI/Lab_LookDevCamera.cs
+  uploadId: 988052

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 664ca006a8f0c394a824d5629c7af78e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Car/Chrome/Lab_ChromeSatin.mat
+  uploadId: 988052

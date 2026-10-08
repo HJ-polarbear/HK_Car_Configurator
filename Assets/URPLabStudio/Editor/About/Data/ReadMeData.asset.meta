@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 729068c642c08ba4aa50e1f589d38e23
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Editor/About/Data/ReadMeData.asset
+  uploadId: 988052

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fa33d6930d129243b84f724c5ab74d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Models/Lab_Env/URPLoft/Art/Architechture/Materials/URP_Loft/URP_Loft_ConcteteWall.mat
+  uploadId: 988052

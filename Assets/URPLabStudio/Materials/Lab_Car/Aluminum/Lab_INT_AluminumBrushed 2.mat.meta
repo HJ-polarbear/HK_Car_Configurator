@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b531a2cd13b6c9849b01a9467e742ceb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Car/Aluminum/Lab_INT_AluminumBrushed 2.mat
+  uploadId: 988052

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 681562c3de1752b438d5cdc0ccf44541
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Prefabs/Lab_Env/URP_LocalFogVolume.prefab
+  uploadId: 988052

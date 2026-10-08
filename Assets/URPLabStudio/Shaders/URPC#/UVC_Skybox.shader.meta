@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e912cc2c6f58d414aa15ccfae74f7ffa
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Shaders/URPC#/UVC_Skybox.shader
+  uploadId: 988052

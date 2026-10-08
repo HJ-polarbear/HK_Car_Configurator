@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1805e702256a0ba4c8f99e94e6a14e35
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Shaders/URPMML/Platform/Materials/SamplesTurntable_White.mat
+  uploadId: 988052

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55788df1139ac47469f622c297b43dd4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/Settings/URP Profile/URP_Loft_Main.asset
+  uploadId: 988052

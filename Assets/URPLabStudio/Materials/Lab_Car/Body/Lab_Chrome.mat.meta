@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62b59288d543a4d40bc46c63107fe59a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Car/Body/Lab_Chrome.mat
+  uploadId: 988052

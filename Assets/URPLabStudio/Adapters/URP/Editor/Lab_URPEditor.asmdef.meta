@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 534e341686a92134b961016b7a212ca6
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Adapters/URP/Editor/Lab_URPEditor.asmdef
+  uploadId: 988052

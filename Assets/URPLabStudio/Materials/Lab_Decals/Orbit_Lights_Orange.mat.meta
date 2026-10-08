@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e2c71423cf8c2c4f94a7b68a30b48f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Decals/Orbit_Lights_Orange.mat
+  uploadId: 988052

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f6616e4c618151438fd18d247fb34c3
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/Settings/URP Particle/FloatingDust.vfx
+  uploadId: 988052

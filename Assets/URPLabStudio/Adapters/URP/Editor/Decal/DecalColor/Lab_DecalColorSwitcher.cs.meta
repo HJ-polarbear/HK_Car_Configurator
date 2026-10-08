@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4f3b77374241fe24cab9847a071a019f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Adapters/URP/Editor/Decal/DecalColor/Lab_DecalColorSwitcher.cs
+  uploadId: 988052

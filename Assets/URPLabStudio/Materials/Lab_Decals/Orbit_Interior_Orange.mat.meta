@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22bc31bff302b1749aa783632a2317e5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Materials/Lab_Decals/Orbit_Interior_Orange.mat
+  uploadId: 988052

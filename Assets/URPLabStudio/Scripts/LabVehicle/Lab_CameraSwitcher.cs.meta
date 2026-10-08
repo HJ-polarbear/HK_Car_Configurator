@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 08fe948b74bc99541866715d80e5c3e3
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Scripts/LabVehicle/Lab_CameraSwitcher.cs
+  uploadId: 988052

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d68370de87ed6a4ab1b8c0d7f139057
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274828
+  packageName: URP Lab Studio
+  packageVersion: 1.0.0
+  assetPath: Assets/URPLabStudio/Adapters/URP/Editor/Decal/Lab_DecalPresetSettings.asset
+  uploadId: 988052
