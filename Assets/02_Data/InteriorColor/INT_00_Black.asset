@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aef72b8a5ab13e4992f386836e50159, type: 3}
+  m_Name: INT_00_Black
+  m_EditorClassIdentifier: Assembly-CSharp::MaterialChoice
+  choiceName: InteriorBlack
+  previewColor: {r: 0.22324869, g: 0.22324869, b: 0.22324869, a: 1}
+  material: {fileID: 2100000, guid: 6dd7bb3cf94fa784aa8407eeb587a8aa, type: 2}
+  syncPreviewColor: 1
