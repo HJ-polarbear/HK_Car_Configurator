@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 3be65349842038042b037221c7dd96fc
-AssetOrigin:
-  serializedVersion: 1
-  productId: 274828
-  packageName: URP Lab Studio
-  packageVersion: 1.0.0
-  assetPath: Assets/URPLabStudio/Editor/Recording/Lab_RecordingToolbar.cs
-  uploadId: 988052
