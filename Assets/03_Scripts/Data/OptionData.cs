@@ -18,6 +18,6 @@ public abstract class OptionData : ScriptableObject
     [Tooltip("색상 미리보기 버튼에 칠할 색")]
     public Color previewColor = Color.white;
 
-    [Tooltip("(직접 고르거나 icon 사용 선택) 휠·시트 버튼에 쓸 썸네일 이미지")]
-    public Sprite icon;
+    //[Tooltip("(직접 고르거나 icon 사용 선택) 휠·시트 버튼에 쓸 썸네일 이미지")]
+    //public Sprite icon;
 }

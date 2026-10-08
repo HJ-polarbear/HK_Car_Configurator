@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aef72b8a5ab13e4992f386836e50159, type: 3}
+  m_Name: EXT_01_White
+  m_EditorClassIdentifier: Assembly-CSharp::MaterialChoice
+  choiceName: Original
+  previewColor: {r: 1, g: 1, b: 1, a: 1}
+  icon: {fileID: 0}
+  material: {fileID: 2100000, guid: 90c28e25974f9564bb196a0be137fd2f, type: 2}
+  syncPreviewColor: 1
