@@ -1056,6 +1056,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1773955407}
+  - component: {fileID: 1773955408}
+  - component: {fileID: 1773955409}
   m_Layer: 0
   m_Name: Configurator
   m_TagString: Untagged
@@ -1077,8 +1079,38 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1847908032}
+  - {fileID: 2033587052}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1773955408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773955406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caee67d980f2f3741a21e65892484bb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ConfiguratorManager
+  vehicle: {fileID: 120101182}
+  switchers:
+  - {fileID: 1847908033}
+  - {fileID: 2033587053}
+--- !u!114 &1773955409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773955406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c65566d76f4c7b440a1275cb89feeead, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SwitcherTester
+  category: 1
 --- !u!1 &1795555356
 GameObject:
   m_ObjectHideFlags: 0
@@ -1152,7 +1184,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1847908032}
   - component: {fileID: 1847908033}
-  - component: {fileID: 1847908034}
   m_Layer: 0
   m_Name: ExteriorColor
   m_TagString: Untagged
@@ -1195,19 +1226,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 3fdfa4b3c4bb71b408d612badffe172f, type: 2}
   - {fileID: 11400000, guid: af2b54ca7faa70044a84af1ece376911, type: 2}
   paintRoot: {fileID: 120101183}
---- !u!114 &1847908034
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1847908031}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c65566d76f4c7b440a1275cb89feeead, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SwitcherTester
-  target: {fileID: 1847908033}
 --- !u!1 &1919931011
 GameObject:
   m_ObjectHideFlags: 0
@@ -1270,6 +1288,57 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2033587051
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2033587052}
+  - component: {fileID: 2033587053}
+  m_Layer: 0
+  m_Name: InteriorColor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2033587052
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2033587051}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1773955407}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2033587053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2033587051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10ff878c9fd6d624a8dd644d55950824, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MaterialSwitcher
+  category: 1
+  defaultIndex: 0
+  choices:
+  - {fileID: 11400000, guid: 717681021b1ce6843bed5ed5fccfa06d, type: 2}
+  - {fileID: 11400000, guid: 7dacc45c8fe6e5b469bc99b306292582, type: 2}
+  - {fileID: 11400000, guid: 0e4064cfb83ea6a499272378df114566, type: 2}
+  paintRoot: {fileID: 120101183}
 --- !u!4 &1874723285874263
 Transform:
   m_ObjectHideFlags: 0
@@ -1738,7 +1807,7 @@ GameObject:
   - component: {fileID: 8474800887691433304}
   - component: {fileID: 8491571690822860191}
   m_Layer: 0
-  m_Name: Int_EV9_midseat_fabrics__carpetback.001
+  m_Name: <interior>Int_EV9_midseat_fabrics__carpetback.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2734,7 +2803,7 @@ GameObject:
   - component: {fileID: 2028418642509173451}
   - component: {fileID: 7070100403567014308}
   m_Layer: 0
-  m_Name: Int_door_FL_leather__custom.001
+  m_Name: <interior>Int_door_FL_leather__custom.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3140,7 +3209,7 @@ GameObject:
   - component: {fileID: 4721354105643705739}
   - component: {fileID: 5517015348382778634}
   m_Layer: 0
-  m_Name: Int_EV9_steeringwheel_leather__steeringwheel.001
+  m_Name: <interior>Int_EV9_steeringwheel_leather__steeringwheel.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5067,6 +5136,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 543450652275884506}
+  - component: {fileID: 919132148339546978}
+  - component: {fileID: 919132148339546977}
   m_Layer: 0
   m_Name: FINAL_MODEL_EV9
   m_TagString: Untagged
@@ -5074,6 +5145,62 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &919132148339546977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919132148339546976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1a2067a629ea5409fa162481643103, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PaintTargets
+  category: 1
+  renderers:
+  - {fileID: 7070100403567014308}
+  - {fileID: 6538216859828099414}
+  - {fileID: 8881309298188252433}
+  - {fileID: 182954295694806517}
+  - {fileID: 7203038840445010900}
+  - {fileID: 7050486082186580093}
+  - {fileID: 7549991262882471649}
+  - {fileID: 3957644872053986752}
+  - {fileID: 5659602377066918525}
+  - {fileID: 3890799485357911681}
+  - {fileID: 7639745087976625169}
+  - {fileID: 5517015348382778634}
+  - {fileID: 2907472569702771725}
+  - {fileID: 8216896871568429071}
+  - {fileID: 3926909175238071391}
+  - {fileID: 4157116407158520724}
+  - {fileID: 2099610363874693634}
+  - {fileID: 8786997726982007641}
+  - {fileID: 8491571690822860191}
+  - {fileID: 2428793245479432892}
+  - {fileID: 4325398449672663166}
+  - {fileID: 2023469721295342627}
+  - {fileID: 4716572258155036378}
+  - {fileID: 4369729577125684545}
+  materialSlot: 0
+--- !u!114 &919132148339546978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919132148339546976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1a2067a629ea5409fa162481643103, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PaintTargets
+  category: 0
+  renderers:
+  - {fileID: 3635503338051292902}
+  - {fileID: 2666801632655600975}
+  materialSlot: 0
 --- !u!33 &921283209409041480
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -5094,7 +5221,7 @@ GameObject:
   - component: {fileID: 5179354292602473945}
   - component: {fileID: 8881309298188252433}
   m_Layer: 0
-  m_Name: Int_door_RL_leather__custom.001
+  m_Name: <interior>Int_door_RL_leather__custom.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5682,7 +5809,7 @@ GameObject:
   - component: {fileID: 9196810886731688041}
   - component: {fileID: 4369729577125684545}
   m_Layer: 0
-  m_Name: Int_EV9_rearseat_leather__dot.001
+  m_Name: <interior>Int_EV9_rearseat_leather__dot.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5945,7 +6072,7 @@ GameObject:
   - component: {fileID: 7633027711942338206}
   - component: {fileID: 2099610363874693634}
   m_Layer: 0
-  m_Name: Int_floor_fabric__carpet.001
+  m_Name: <interior>Int_floor_fabric__carpet.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6388,7 +6515,7 @@ GameObject:
   - component: {fileID: 303474215310325982}
   - component: {fileID: 3890799485357911681}
   m_Layer: 0
-  m_Name: Int_EV9_steeringwheel_leather__custom.001
+  m_Name: <interior>Int_EV9_steeringwheel_leather__custom.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6719,7 +6846,7 @@ GameObject:
   - component: {fileID: 4711568405288725025}
   - component: {fileID: 8786997726982007641}
   m_Layer: 0
-  m_Name: Int_floormat_fabrics__carpet.001
+  m_Name: <interior>Int_floormat_fabrics__carpet.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7560,7 +7687,7 @@ GameObject:
   - component: {fileID: 4545343452781709268}
   - component: {fileID: 7639745087976625169}
   m_Layer: 0
-  m_Name: Int_EV9_steeringwheel_back_leather__darkgrey.001
+  m_Name: <interior>Int_EV9_steeringwheel_back_leather__darkgrey.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7666,7 +7793,7 @@ GameObject:
   - component: {fileID: 2196549006265674439}
   - component: {fileID: 2428793245479432892}
   m_Layer: 0
-  m_Name: Int_EV9_rearseat_back_fabrics__carpet.001
+  m_Name: <interior>Int_EV9_rearseat_back_fabrics__carpet.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7936,7 +8063,7 @@ GameObject:
   - component: {fileID: 9208948929406354268}
   - component: {fileID: 2023469721295342627}
   m_Layer: 0
-  m_Name: Int_EV9_frontseat_leather__dot.001
+  m_Name: <interior>Int_EV9_frontseat_leather__dot.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9467,7 +9594,7 @@ GameObject:
   - component: {fileID: 6967690616900076476}
   - component: {fileID: 2907472569702771725}
   m_Layer: 0
-  m_Name: Int_EV9_frontseat_leather.001
+  m_Name: <interior>Int_EV9_frontseat_leather.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11655,7 +11782,7 @@ GameObject:
   - component: {fileID: 7919298096261370824}
   - component: {fileID: 6538216859828099414}
   m_Layer: 0
-  m_Name: Int_door_FR_leather__custom.001
+  m_Name: <interior>Int_door_FR_leather__custom.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15638,7 +15765,7 @@ GameObject:
   - component: {fileID: 4404184985583774182}
   - component: {fileID: 4716572258155036378}
   m_Layer: 0
-  m_Name: Int_EV9_midseat_leather__dot.001
+  m_Name: <interior>Int_EV9_midseat_leather__dot.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16094,7 +16221,7 @@ GameObject:
   - component: {fileID: 5786507507393239693}
   - component: {fileID: 7549991262882471649}
   m_Layer: 0
-  m_Name: Int_EV9_midconsole_leather__custom.001
+  m_Name: <interior>Int_EV9_midconsole_leather__custom.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16463,7 +16590,7 @@ GameObject:
   - component: {fileID: 7911121767294023083}
   - component: {fileID: 7203038840445010900}
   m_Layer: 0
-  m_Name: Int_EV9_frontseat_leather__custom_leather.001
+  m_Name: <interior>Int_EV9_frontseat_leather__custom_leather.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16589,7 +16716,7 @@ GameObject:
   - component: {fileID: 7016316255709876097}
   - component: {fileID: 8216896871568429071}
   m_Layer: 0
-  m_Name: Int_EV9_midseat_leather__darkgrey.001
+  m_Name: <interior>Int_EV9_midseat_leather__darkgrey.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21340,7 +21467,7 @@ GameObject:
   - component: {fileID: 2896000412716250071}
   - component: {fileID: 4157116407158520724}
   m_Layer: 0
-  m_Name: <script?>Int_EV9_dash_fabrics__darkgrey.001
+  m_Name: <interior>Int_EV9_dash_fabrics__darkgrey.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28584,7 +28711,7 @@ GameObject:
   - component: {fileID: 8593620240735687537}
   - component: {fileID: 182954295694806517}
   m_Layer: 0
-  m_Name: Int_door_RL_leather__custom1.001
+  m_Name: <interior>Int_door_RL_leather__custom1.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28690,7 +28817,7 @@ GameObject:
   - component: {fileID: 3179619336905828451}
   - component: {fileID: 3926909175238071391}
   m_Layer: 0
-  m_Name: Int_EV9_midseat_leather__white.001
+  m_Name: <interior>Int_EV9_midseat_leather__white.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36028,7 +36155,7 @@ GameObject:
   - component: {fileID: 7622801061071202963}
   - component: {fileID: 3957644872053986752}
   m_Layer: 0
-  m_Name: Int_EV9_midseat_leather__custom__leather.001
+  m_Name: <interior>Int_EV9_midseat_leather__custom__leather.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36494,7 +36621,7 @@ GameObject:
   - component: {fileID: 3529917719571900749}
   - component: {fileID: 5659602377066918525}
   m_Layer: 0
-  m_Name: Int_EV9_rearseat_leather__custom__leather.001
+  m_Name: <interior>Int_EV9_rearseat_leather__custom__leather.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38517,7 +38644,7 @@ GameObject:
   - component: {fileID: 1734340804433681746}
   - component: {fileID: 4325398449672663166}
   m_Layer: 0
-  m_Name: Int_EV9_boot_static_fabrics__carpet.001
+  m_Name: <interior>Int_EV9_boot_static_fabrics__carpet.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38895,7 +39022,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5075336483158811689}
-  - component: {fileID: 8723092558312467767}
   m_Layer: 0
   m_Name: <*script>CarPaint1
   m_TagString: Untagged
@@ -38903,23 +39029,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &8723092558312467767
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8723092558312467766}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b1a2067a629ea5409fa162481643103, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PaintTargets
-  category: 0
-  renderers:
-  - {fileID: 3635503338051292902}
-  - {fileID: 2666801632655600975}
-  materialSlot: 0
 --- !u!1 &8725592737010276765
 GameObject:
   m_ObjectHideFlags: 0
@@ -39969,7 +40078,7 @@ GameObject:
   - component: {fileID: 1233569226631089368}
   - component: {fileID: 7050486082186580093}
   m_Layer: 0
-  m_Name: Int_EV9_frontseat_leather_custom.001
+  m_Name: <interior>Int_EV9_frontseat_leather_custom.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40536,7 +40645,7 @@ GameObject:
   m_Component:
   - component: {fileID: 632103574430798817}
   m_Layer: 0
-  m_Name: <*script>Leather
+  m_Name: Leather
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
